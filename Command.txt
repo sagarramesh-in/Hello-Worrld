@@ -1,0 +1,12 @@
+ng new clientpanel
+npm install bootstrap tether jquery --save
+ng serve
+cd .. , cd clientpannel/
+git config --global user.name "sagarramesh-in"
+git config --global user.email sagarramesh.in@gmail.com
+cd to project folder.
+creat new file.
+git add command.txt.
+git status.
+git commit -m "any comment" command.txt.
+git push -u origin master.
